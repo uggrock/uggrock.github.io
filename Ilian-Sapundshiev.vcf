@@ -1,0 +1,11 @@
+BEGIN:VCARD
+SOURCE:http://ilian.me/
+NAME:Ilian Sapundshiev. 
+VERSION:3.0
+N;LANGUAGE=en;CHARSET=utf-8:Ilian;Sapundshiev;;;
+FN;LANGUAGE=en;CHARSET=utf-8:Ilian Sapundshiev
+URL:http://ilian.me/
+EMAIL:contact@ilian.me
+ADR;LANGUAGE=en;CHARSET=utf-8:;;Hoehenkircherstr. 16;München;;81247;Germany
+TEL:+49 177 2350967
+END:VCARD
